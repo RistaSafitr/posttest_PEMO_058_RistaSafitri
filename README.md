@@ -2,6 +2,8 @@
 
 ## Data Diri
 
-Nama  : Rista Safitri
-NIM   : 2009106058
-Kelas : Pemrograman Mobile A1
+# Nama  : Rista Safitri
+
+# NIM   : 2009106058
+
+# Kelas : Pemrograman Mobile A1
