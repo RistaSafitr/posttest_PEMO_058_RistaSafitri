@@ -1,9 +1,9 @@
 ### Tema : Fabric Shop (Toko Kain)
 
-## Data Diri
+### Data Diri
 
-# Nama  : Rista Safitri
+#### Nama  : Rista Safitri
 
-# NIM   : 2009106058
+#### NIM   : 2009106058
 
-# Kelas : Pemrograman Mobile A1
+#### Kelas : Pemrograman Mobile A1
